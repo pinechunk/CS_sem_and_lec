@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\bin\Debug\net7.0\Task_56_hw.exe
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\bin\Debug\net7.0\Task_56_hw.deps.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\bin\Debug\net7.0\Task_56_hw.runtimeconfig.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\bin\Debug\net7.0\Task_56_hw.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\bin\Debug\net7.0\Task_56_hw.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\refint\Task_56_hw.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\Task_56_hw.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_56_hw\obj\Debug\net7.0\ref\Task_56_hw.dll

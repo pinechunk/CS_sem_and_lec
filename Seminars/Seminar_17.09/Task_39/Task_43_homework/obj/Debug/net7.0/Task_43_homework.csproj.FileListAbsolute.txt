@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\bin\Debug\net7.0\Task_43_homework.exe
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\bin\Debug\net7.0\Task_43_homework.deps.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\bin\Debug\net7.0\Task_43_homework.runtimeconfig.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\bin\Debug\net7.0\Task_43_homework.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\bin\Debug\net7.0\Task_43_homework.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\refint\Task_43_homework.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\Task_43_homework.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_17.09\Task_39\Task_43_homework\obj\Debug\net7.0\ref\Task_43_homework.dll

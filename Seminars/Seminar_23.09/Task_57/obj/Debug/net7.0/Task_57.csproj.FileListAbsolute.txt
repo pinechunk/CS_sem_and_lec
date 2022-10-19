@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\bin\Debug\net7.0\Task_57.exe
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\bin\Debug\net7.0\Task_57.deps.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\bin\Debug\net7.0\Task_57.runtimeconfig.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\bin\Debug\net7.0\Task_57.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\bin\Debug\net7.0\Task_57.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\refint\Task_57.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\Task_57.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_20.09\Seminar_23.09\Task_57\obj\Debug\net7.0\ref\Task_57.dll

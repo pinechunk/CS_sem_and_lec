@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\bin\Debug\net7.0\Seminar_34.exe
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\bin\Debug\net7.0\Seminar_34.deps.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\bin\Debug\net7.0\Seminar_34.runtimeconfig.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\bin\Debug\net7.0\Seminar_34.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\bin\Debug\net7.0\Seminar_34.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\refint\Seminar_34.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\Seminar_34.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34\obj\Debug\net7.0\ref\Seminar_34.dll

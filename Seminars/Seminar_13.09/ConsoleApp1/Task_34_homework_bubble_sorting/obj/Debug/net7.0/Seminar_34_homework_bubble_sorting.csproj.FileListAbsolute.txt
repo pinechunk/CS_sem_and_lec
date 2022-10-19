@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\bin\Debug\net7.0\Seminar_34_homework_bubble_sorting.exe
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\bin\Debug\net7.0\Seminar_34_homework_bubble_sorting.deps.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\bin\Debug\net7.0\Seminar_34_homework_bubble_sorting.runtimeconfig.json
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\bin\Debug\net7.0\Seminar_34_homework_bubble_sorting.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\bin\Debug\net7.0\Seminar_34_homework_bubble_sorting.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.AssemblyInfoInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.AssemblyInfo.cs
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\refint\Seminar_34_homework_bubble_sorting.dll
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.pdb
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\Seminar_34_homework_bubble_sorting.genruntimeconfig.cache
+C:\Users\LEGION\Documents\Geek Brains\C_Sharp\Seminars\Seminar_13.09\ConsoleApp1\Seminar_34_homework_bubble_sorting\obj\Debug\net7.0\ref\Seminar_34_homework_bubble_sorting.dll
